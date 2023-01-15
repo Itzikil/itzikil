@@ -1,5 +1,5 @@
 [![MasterHead](https://atlassianblog.wpengine.com/wp-content/uploads/2022/01/d02ed553-f52c-43ec-b86e-c7dfec487ef9.png)](https://itzikil.io)
-<img src="https://atlassianblog.wpengine.com/wp-content/uploads/2022/01/d02ed553-f52c-43ec-b86e-c7dfec487ef9.png" >
+<img src="https://atlassianblog.wpengine.com/wp-content/uploads/2022/01/d02ed553-f52c-43ec-b86e-c7dfec487ef9.png" heigth="100px" >
 <h1 align="center">Hi 👋, I'm Itzik levi</h1>
 <h3 align="center">A passionate fullstack developer & musician from israel</h3>
 
