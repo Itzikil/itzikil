@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14132
-Fork on GitHub
-3752
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Itzik levi</h1>
 <h3 align="center">A passionate fullstack developer & musician from israel</h3>
 
