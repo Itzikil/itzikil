@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Itzik levi</h1>
 <h3 align="center">A passionate fullstack developer & musician from Israel</h3>
 
-- 🔭 I’m currently working on [Fiverr clone](https://gigerr.onrender.com/)
+- 🔭 I’m currently working on [Fiverr clone](https://gigerrs.onrender.com/)
 
 - 🌱 I’m currently expanding my knowledge in **React & Angular**
 
