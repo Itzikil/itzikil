@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer & musician from Israel</h3>
 
 - My portfolio https://itzikil.github.io/portfolio/
-- 
+ 
 - 🔭 I’m currently working on [Fiverr clone](https://gigerrs.onrender.com/)
 
 - 🌱 I’m currently expanding my knowledge in **React & Angular**
